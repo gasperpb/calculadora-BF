@@ -1,0 +1,16 @@
+document.querySelector("#calcular")
+
+<!--<div class="col-lg-6 content" style="margin-top: 1rem;" >
+    <h2>Outros calculos de BF </h2>
+    <p>Saiba o BF para as estaturas</p>
+    <table class="table">
+        <thead class="thead-light">
+            <tr><th scope="col">Peso</th><th scope="col">Altura</th><th scope="col">Idade</th><th scope="col">Pecoco</th><th scope="col">Cintura</th><th scope="col">Quadril</th><th scope="col">Link</th></tr>
+        </thead>
+        <tbody>
+            <php foreach ($links as $i => $value) {
+                echo'<tr><td>'.$links[$i][1].'</td><td>'.$links[$i][2].'</td><td>'.$links[$i][3].'</td><td>'.$links[$i][4].'</td><td>'.$links[$i][5].'</td><td>'.$links[$i][6].'</td><td><a href="'.$links[$i][0].'" >Calcular BF</a></td></tr>';
+            } ?>
+         </tbody>
+    </table>
+</div>-->
